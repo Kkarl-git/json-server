@@ -1,0 +1,19 @@
+{
+    "burgers":[
+        {
+            "ketchup":false,
+            "mustard":false,
+            "letture":false,
+            "tomato":false,
+            "fos":"fries",
+            "size":"small"
+        }
+    ],
+    "steak":[
+        {
+            "done":"rare",
+            "sop":"salad",
+            "dressing":"caesar"
+        }
+    ]
+}
